@@ -1,8 +1,9 @@
-openai
-langchain
+huggingface_hub
+langchain-huggingface
 streamlit
 python-dotenv
 pyPDF2
+langchain
 
 
 -e .
